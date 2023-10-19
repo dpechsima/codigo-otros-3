@@ -3,9 +3,9 @@ input {
   height: 40px;
   font-size: 18px;
 }
-
+/* por buena practica se ponen los ; faltantes */
 #lista-de-productos {
-  display: flex
+  display: flex;
 }
 
 .producto {
@@ -20,5 +20,5 @@ input {
 
 .producto img {
   width: 70%;
-  height: auto
+  height: auto;
 }
